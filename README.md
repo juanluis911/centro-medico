@@ -1,0 +1,3 @@
+# Sistema Médico Simplificado
+
+Instrucciones para correr el proyecto...
