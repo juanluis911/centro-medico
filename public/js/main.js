@@ -1,0 +1,1 @@
+// JavaScript frontend: validaciones, fetch API, etc.
